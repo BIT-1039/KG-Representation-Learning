@@ -1,5 +1,5 @@
 # Knowledge Graph Representation Learning
-1039论文列表
+1039 paper list of Knowledge Graph
 
 ## Paper List
 
