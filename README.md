@@ -99,3 +99,6 @@
 - Relation extraction pattern ranking using word similarity [NAACL 2015]
 - DSGAN: Generative Adversarial Training for Robust Distant Supervision Relation Extraction.
 - Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism.
+
+###Chinese Word Vectors 中文词向量
+- https://github.com/Embedding/Chinese-Word-Vectors
